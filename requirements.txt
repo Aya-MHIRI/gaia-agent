@@ -1,0 +1,13 @@
+smolagents[openai]
+duckduckgo-search
+beautifulsoup4
+markdownify
+requests
+pandas
+openpyxl
+python-dotenv
+huggingface_hub
+youtube-transcript-api
+langgraph
+langchain-core
+langchain-openai
